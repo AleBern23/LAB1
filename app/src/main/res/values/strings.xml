@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Categorías de Cerveza</string>
+    <string name="beer_types">Encontrar tipos de cervezas</string>
+    <string name="no_beer">Cerveza no seleccionada</string>
+    <string-array name="BEER_LIST">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
